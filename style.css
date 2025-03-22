@@ -1,0 +1,44 @@
+body{
+    text-align: center;
+    background-color: pink; 
+    margin-top: 40px;  
+}
+button{
+    height: 50px;
+    width: 150px;
+    margin-top: 50px;
+    background-color:grey;
+    color:blue;
+    margin-left: 50px;
+    
+}
+button :hover{
+    cursor: pointer;
+    background-color: RED;
+    color: WHITE;
+}
+#sort{
+    width: 140px;
+    height: 40px;
+    font-size: large;
+}
+#reverse{
+    height: 40px;
+    width: 140px;
+    font-size: large;
+}
+#even{
+    height: 40px;
+    width: 140px;
+    font-size: large;
+}
+#odd{
+    height: 40px;
+    width: 140px;
+    font-size: large;
+}
+#message{
+    margin: 30px;
+    color: green;
+   
+}
